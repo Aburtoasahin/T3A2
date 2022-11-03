@@ -13,7 +13,9 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 2. Proceso:
 -Diferencia de horas del dia posterior menos el dia anterior.
 3. Salida:
-4. ~~~
+ 
+
+~~~
 +-------------------------------------------------------+
 |     DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO    |
 +-------------------------------------------------------+
