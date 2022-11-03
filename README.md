@@ -27,6 +27,5 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 +-------------------------------------------------------+
 ~~~
 
-
 ##ETAPA 3. DISEÑO  DE LA SOLUCION
 ![](WhatsApp Image 2022-11-03 at 8.54.57 AM - Acceso directo.lnk)
