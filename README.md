@@ -28,4 +28,4 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 ~~~
 
 ##ETAPA 3. DISEÑO  DE LA SOLUCION
-![](WhatsApp Image 2022-11-03 at 8.54.57 AM - Acceso directo.lnk)
+![](https://github.com/arturo18sv/T3A2---Ejercicio-02-/blob/main/T3A2.png?raw=true)
