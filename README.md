@@ -29,4 +29,4 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 
 ##ETAPA 3. DISEÑO  DE LA SOLUCION
-![](
+![](https://github.com/Aburtoasahin/T3A2/blob/main/WhatsApp%20Image%202022-11-03%20at%208.54.57%20AM%20-%20Acceso%20directo.lnk?raw=true)
